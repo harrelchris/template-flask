@@ -1,0 +1,9 @@
+# All dependencies are unversioned, so this is unnecessary right now.
+# Rename this to dependabot.yml to enable if dependencies are versioned.
+
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
