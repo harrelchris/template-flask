@@ -1,0 +1,13 @@
+# Project dependencies
+
+Alembic
+BCrypt
+Click
+Flask
+Flask-Admin
+Flask-Login
+Flask-WTF
+Pre-Commit
+Python-Dotenv
+SQLAlchemy
+SQLAlchemy_Mixins
